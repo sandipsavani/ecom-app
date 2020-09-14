@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sandipsavani/ecom-app.git/static/css/main.6c79112f.chunk.css",
+    "main.js": "/sandipsavani/ecom-app.git/static/js/main.2f2e8d8e.chunk.js",
+    "main.js.map": "/sandipsavani/ecom-app.git/static/js/main.2f2e8d8e.chunk.js.map",
+    "runtime-main.js": "/sandipsavani/ecom-app.git/static/js/runtime-main.ce5c5897.js",
+    "runtime-main.js.map": "/sandipsavani/ecom-app.git/static/js/runtime-main.ce5c5897.js.map",
+    "static/js/2.3e871266.chunk.js": "/sandipsavani/ecom-app.git/static/js/2.3e871266.chunk.js",
+    "static/js/2.3e871266.chunk.js.map": "/sandipsavani/ecom-app.git/static/js/2.3e871266.chunk.js.map",
+    "index.html": "/sandipsavani/ecom-app.git/index.html",
+    "precache-manifest.4e690553ab410d226acf86248bd5dd51.js": "/sandipsavani/ecom-app.git/precache-manifest.4e690553ab410d226acf86248bd5dd51.js",
+    "service-worker.js": "/sandipsavani/ecom-app.git/service-worker.js",
+    "static/css/main.6c79112f.chunk.css.map": "/sandipsavani/ecom-app.git/static/css/main.6c79112f.chunk.css.map",
+    "static/js/2.3e871266.chunk.js.LICENSE.txt": "/sandipsavani/ecom-app.git/static/js/2.3e871266.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce5c5897.js",
+    "static/js/2.3e871266.chunk.js",
+    "static/css/main.6c79112f.chunk.css",
+    "static/js/main.2f2e8d8e.chunk.js"
+  ]
+}
