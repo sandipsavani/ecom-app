@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/ecom-app/static/css/main.fa2f61f2.chunk.css",
-    "main.js": "/ecom-app/static/js/main.a75e9990.chunk.js",
-    "main.js.map": "/ecom-app/static/js/main.a75e9990.chunk.js.map",
+    "main.css": "/ecom-app/static/css/main.a82749c9.chunk.css",
+    "main.js": "/ecom-app/static/js/main.f68ac232.chunk.js",
+    "main.js.map": "/ecom-app/static/js/main.f68ac232.chunk.js.map",
     "runtime-main.js": "/ecom-app/static/js/runtime-main.6550eb3b.js",
     "runtime-main.js.map": "/ecom-app/static/js/runtime-main.6550eb3b.js.map",
-    "static/js/2.19eea21f.chunk.js": "/ecom-app/static/js/2.19eea21f.chunk.js",
-    "static/js/2.19eea21f.chunk.js.map": "/ecom-app/static/js/2.19eea21f.chunk.js.map",
+    "static/js/2.b8bd80d4.chunk.js": "/ecom-app/static/js/2.b8bd80d4.chunk.js",
+    "static/js/2.b8bd80d4.chunk.js.map": "/ecom-app/static/js/2.b8bd80d4.chunk.js.map",
     "index.html": "/ecom-app/index.html",
-    "precache-manifest.40e8c845017344abe8b0b27de0778e08.js": "/ecom-app/precache-manifest.40e8c845017344abe8b0b27de0778e08.js",
+    "precache-manifest.fea6578680770af66db8a1f9f6adeb73.js": "/ecom-app/precache-manifest.fea6578680770af66db8a1f9f6adeb73.js",
     "service-worker.js": "/ecom-app/service-worker.js",
-    "static/css/main.fa2f61f2.chunk.css.map": "/ecom-app/static/css/main.fa2f61f2.chunk.css.map",
-    "static/js/2.19eea21f.chunk.js.LICENSE.txt": "/ecom-app/static/js/2.19eea21f.chunk.js.LICENSE.txt"
+    "static/css/main.a82749c9.chunk.css.map": "/ecom-app/static/css/main.a82749c9.chunk.css.map",
+    "static/js/2.b8bd80d4.chunk.js.LICENSE.txt": "/ecom-app/static/js/2.b8bd80d4.chunk.js.LICENSE.txt",
+    "static/media/crown.19ef7b17.svg": "/ecom-app/static/media/crown.19ef7b17.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6550eb3b.js",
-    "static/js/2.19eea21f.chunk.js",
-    "static/css/main.fa2f61f2.chunk.css",
-    "static/js/main.a75e9990.chunk.js"
+    "static/js/2.b8bd80d4.chunk.js",
+    "static/css/main.a82749c9.chunk.css",
+    "static/js/main.f68ac232.chunk.js"
   ]
 }
