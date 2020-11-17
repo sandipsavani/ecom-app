@@ -1,4 +1,4 @@
-import { UserActionConstant } from './user-constants';
+import { UserActionConstant } from './user.type';
 const INITIAL_STATE = {
   currentUser: null,
 };
